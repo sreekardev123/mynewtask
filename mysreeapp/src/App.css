@@ -1,0 +1,12 @@
+
+table,tr,td,th{
+  border: 2px solid orange;
+  border-radius: 20px;
+  background-color: rgb(156, 207, 106);
+  color:#fff;
+}
+th{
+  background-color: blueviolet;
+  border-radius: 20px;
+  
+}
